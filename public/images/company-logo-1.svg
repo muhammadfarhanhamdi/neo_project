@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 80">
+  <rect width="180" height="80" rx="16" fill="#111827" />
+  <circle cx="40" cy="40" r="22" fill="#ffffff" opacity="0.14" />
+  <text x="40" y="48" fill="#ffffff" font-family="Inter, sans-serif" font-size="28" font-weight="900" text-anchor="middle">NX</text>
+  <text x="108" y="28" fill="#ffffff" font-family="Inter, sans-serif" font-size="16" font-weight="700">NextStep</text>
+  <text x="108" y="52" fill="#9ca3af" font-family="Inter, sans-serif" font-size="12">Career</text>
+</svg>

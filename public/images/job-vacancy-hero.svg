@@ -1,0 +1,40 @@
+<svg width="960" height="960" viewBox="0 0 960 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="960" rx="56" fill="#F8FAFC"/>
+  <rect x="76" y="92" width="808" height="776" rx="44" fill="url(#paint0_linear)"/>
+  <circle cx="770" cy="190" r="118" fill="#D1FAE5"/>
+  <circle cx="194" cy="776" r="132" fill="#DBEAFE"/>
+  <path d="M154 286C154 263.909 171.909 246 194 246H628L806 424V674C806 696.091 788.091 714 766 714H194C171.909 714 154 696.091 154 674V286Z" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="4"/>
+  <path d="M628 246V386C628 408.091 645.909 426 668 426H806" fill="#E5E7EB"/>
+  <path d="M628 246L806 424" stroke="#CBD5E1" stroke-width="4"/>
+  <rect x="196" y="308" width="286" height="28" rx="14" fill="#E2E8F0"/>
+  <rect x="196" y="360" width="412" height="18" rx="9" fill="#CBD5E1"/>
+  <rect x="196" y="398" width="360" height="18" rx="9" fill="#E2E8F0"/>
+  <rect x="196" y="450" width="546" height="144" rx="28" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="4"/>
+  <rect x="220" y="478" width="92" height="92" rx="22" fill="#10B981"/>
+  <path d="M242 524C242 502.461 259.461 485 281 485C302.539 485 320 502.461 320 524C320 545.539 302.539 563 281 563C259.461 563 242 545.539 242 524Z" fill="#F8FAFC"/>
+  <path d="M270 524H292" stroke="#10B981" stroke-width="10" stroke-linecap="round"/>
+  <path d="M281 513V535" stroke="#10B981" stroke-width="10" stroke-linecap="round"/>
+  <text x="344" y="515" fill="#0F172A" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800">Frontend Developer</text>
+  <text x="344" y="553" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="600">Jakarta Selatan · Full-time · Remote friendly</text>
+  <rect x="344" y="574" width="96" height="26" rx="13" fill="#DCFCE7"/>
+  <rect x="450" y="574" width="104" height="26" rx="13" fill="#E0F2FE"/>
+  <rect x="564" y="574" width="108" height="26" rx="13" fill="#F1F5F9"/>
+  <text x="363" y="593" fill="#166534" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Laravel</text>
+  <text x="484" y="593" fill="#075985" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Tailwind</text>
+  <text x="592" y="593" fill="#334155" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">React</text>
+  <rect x="196" y="632" width="546" height="96" rx="24" fill="#0F172A"/>
+  <text x="226" y="670" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="600">3 lowongan aktif baru ditinjau hari ini</text>
+  <text x="226" y="702" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800">Cari, lamar, dan pantau kandidat dalam satu alur.</text>
+  <circle cx="734" cy="758" r="78" fill="#34D399"/>
+  <path d="M708 758C708 723.817 735.817 696 770 696C804.183 696 832 723.817 832 758C832 792.183 804.183 820 770 820C735.817 820 708 792.183 708 758Z" fill="none" stroke="#0F172A" stroke-width="10"/>
+  <path d="M821 829L857 865" stroke="#0F172A" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="770" cy="758" r="34" fill="#FFFFFF"/>
+  <path d="M754 758H786" stroke="#0F172A" stroke-width="10" stroke-linecap="round"/>
+  <path d="M770 742V774" stroke="#0F172A" stroke-width="10" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="76" y1="92" x2="884" y2="868" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EFF6FF"/>
+    </linearGradient>
+  </defs>
+</svg>
